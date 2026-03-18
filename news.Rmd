@@ -306,7 +306,7 @@ knitr::include_graphics("images/news/Lea_green_award2.png")
 
 ## Congrats to Dr. Jessica Schaaf
 
-November 17th: (Dr.)  Jessica van der Schaaf is awarded her PhD after a spirited defense 
+November 17th: (Dr.)  Jessica Schaaf is awarded her PhD after a spirited defense 
 
 ```{r, out.width = "30%", fig.align = 'left'}
 knitr::include_graphics("images/people/Jessica_Schaaf.jpg")

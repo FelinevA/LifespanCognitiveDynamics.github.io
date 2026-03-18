@@ -66,7 +66,7 @@ knitr::include_graphics("images/people/BUstun- headshot_c.png")
 
 ## BEYZA USTUN-ELAYAN
 
-Postdoctoral Researcher
+Postdoctoral researcher
 
 <i class="fab fa-linkedin-in"></i>[ LinkedIn](www.linkedin.com/in/beyza-ustun-elayan)
 <i class="fas fa-envelope"></i>[  Beyza.ustun-elayan@radboudumc.nl](Beyza.ustun-elayan@radboudumc.nl)
@@ -125,7 +125,7 @@ knitr::include_graphics("images/people/Feline_C.png")
 
 ## FELINE VAN AAGTEN
 
-PhD Student
+PhD student
 
 <i class="fab fa-linkedin-in"></i>[ LinkedIn](https://www.linkedin.com/in/feline-van-aagten/)
 <i class="fas fa-envelope"></i>[  feline.vanaagten@radboudumc.nl](feline.vanaagten@radboudumc.nl)
@@ -217,21 +217,6 @@ Research Assistant
 
 My interests center on children’s development, particularly psychobiological and cognitive processes. I am especially drawn to understanding how environmental factors shape these developmental pathways, and whether and how these influences contribute to both intra- and interindividual differences. Outside the lab, I love getting immersed in a good story, both through reading and watching films. I also enjoy traveling to explore new places, learn about different cultures, and relax.
 
----
-
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
-
-knitr::include_graphics("images/people/EricFleischer_C.png")
-```
-
-## ERIC FLEISCHER
-
-Research assistant
-
-<i class="fab fa-linkedin-in"></i>[ LinkedIn]( https://nl.linkedin.com/in/eric-fleischer-468a291b8?trk=people-guest_people_search-card)
-<i class="fas fa-envelope"></i>[eric.fleischer@radboudumc.nl](eric.fleischer@radboudumc.nl)
-
-My interest lies in the field of developmental psychology. Within this area I am especially interested in the development of mental disorders in the (early) lifetime of an individual. Next to being a research assistant for the CODEC-project, I am working as a child and youth psychologist (so to speak the perfect combination between theory/research and practice). In my spare time I like to run or cycle, watch a movie at the cinema and train my cooking skills.
 
 ---
 
@@ -259,7 +244,7 @@ knitr::include_graphics("images/people/Aline_C.png")
 
 ## ALINE KORVER
 
-Intern
+Research assistant
 
 I am a research master’s student in Cognitive Neuroscience with a double background in Psychology and Philosophy, interested in the development of alternative research methods which respect the complex, dynamic, and individually unique nature of psychological phenomena. For my internship, I will be involved in the CODEC project, which studies cognitive variability in early childhood. In my free time, I enjoy reading novels, running over the Veluwe, and commuting between Arnhem and Nijmegen with my racing bike!
 
@@ -286,6 +271,77 @@ I’m fascinated by how language skills develop and enjoy combining biological a
 
 ```{r, out.width = "50%", fig.align = 'center', echo=FALSE}
 
+knitr::include_graphics("images/people/Lucia_C.png")
+```
+
+## LUCÍA LÓPEZ SÁNCHEZ
+
+Intern
+
+<i class="fab fa-linkedin-in"></i>[ LinkedIn](https://www.linkedin.com/in/lucialopezsanchez)
+<i class="fas fa-envelope"></i>[lucia.lopezsanchez@ru.nl](lucia.lopezsanchez@ru.nl)
+
+I am interested in brain health and the impact of lifestyle factors on the brain across the lifespan. During my Master’s in Cognitive Neuroscience at Radboud University, I explored the longitudinal relationship between physical activity and the gut-brain axis. At the LCD Lab, I am investigating the relationship between cognitive variability and cognitive flexibility across multiple databases. Outside of the lab, I enjoy sports (especially swimming, running, and cycling), travelling, and any excuse to be outdoors and by the ocean.
+
+---
+
+```{r, out.width = "50%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/people/Stijn_C.png")
+```
+
+## STIJN REITS
+
+Intern and Research assistant
+
+<i class="fab fa-linkedin-in"></i>[ LinkedIn](https://nl.linkedin.com/in/stijn-reits-22181b300)
+<i class="fas fa-envelope"></i>[stijn.reits@radboudumc.nl](stijn.reits@radboudumc.nl)
+<i class="fa fa-github"></i>[  GitHub](https://github.com/StijnR7)
+
+I’m a software development student and intern with a focus on embedded systems. My current project involves building a device to monitor classroom environmental data, with the goal of understanding how different environmental variables affect cognitive performance in children. Alongside this, I also work as an RA for the CODEC project. Outside of work, I enjoy being outdoors, lifting weights, cooking, and gaming.
+
+---
+
+```{r, out.width = "50%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/people/Laurijn_C.png")
+```
+
+## LAURIJN SCHIMMEL
+
+Intern
+
+<i class="fas fa-envelope"></i>[laurijn.schimmel@radboudumc.nl](laurijn.schimmel@radboudumc.nl)
+
+Hi, my name is Laurijn. I am currently a bachelor’s student in Biomedical Sciences at Radboud University. I am interested in the effects of environmental factors on development, particularly cognitive development, and I want to learn more about how and why cognitive abilities change throughout life. During my internship at the lab, I work within the CODEC team investigating primary school children’s cognitive performance and fluctuations. My internship focuses on the relationship between fatigue and cognitive performance and fluctuations using this dataset. In my free time, I enjoy reading, rowing, and travelling.
+
+
+---
+
+# Lab Alumni
+
+--- 
+
+
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/people/EricFleischer_C.png")
+```
+
+## ERIC FLEISCHER
+
+Research assistant
+
+<i class="fab fa-linkedin-in"></i>[ LinkedIn]( https://nl.linkedin.com/in/eric-fleischer-468a291b8?trk=people-guest_people_search-card)
+<i class="fas fa-envelope"></i>[eric.fleischer@radboudumc.nl](eric.fleischer@radboudumc.nl)
+
+My interest lies in the field of developmental psychology. Within this area I am especially interested in the development of mental disorders in the (early) lifetime of an individual. Next to being a research assistant for the CODEC-project, I am working as a child and youth psychologist (so to speak the perfect combination between theory/research and practice). In my spare time I like to run or cycle, watch a movie at the cinema and train my cooking skills.
+
+
+---
+
+```{r, out.width = "50%", fig.align = 'center', echo=FALSE}
+
 knitr::include_graphics("images/people/Lena_C.png")
 ```
 
@@ -296,13 +352,7 @@ Intern
 I’m a Cognitive Neuroscience Master’s student interested in the cognitive and socioemotional development of children, particularly in the context of primary education. How does schooling (as considered in isolation of or in combination with age) shape the way the brain develops and the outcomes we extract with cognitive testing during this period – and how can educational policies or interventions centered on the individual support these complex processes, not only by improving cognitive performance but also by fascilitating growth in socioemotional skills?
 During my internship, I’m working on CODEC, focusing mostly on the MRI side of the project. Aside from assisting in the data collection, I’m working on a pipeline to extract white matter integrity with the goal to link the parameters thereof to cognitive intravariability. I’m also interested in finding new ways to communicate our science to the children participating in the study, with the goal to have them be (almost) as excited in taking part as we are in conducting the research!
 In my leisure time, I enjoy doing sports (strength training always, cycling and running mostly when it’s not raining), trying out new cooking or baking recipes, discovering Dutch cities and crafting with friends.
-
 ---
-
-# Lab Alumni
-
---- 
-
 
 ```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
 
