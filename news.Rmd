@@ -48,7 +48,7 @@ Léa has submitted her thesis today! She delivered an inspiring final product an
 
 22nd of February: 
 
-On February 22nd, pirate CODEC and members of the CODEC crew (Lena, Kevin, and Jessica) joined the Kletskoppen festival, a children's festival dedicated to language. Many enthusiastic children and their parents visited our stand to learn about language variability and to participate in a scientific experiment themselves. Keep posted for results on how different sounds affect processing speed and language variability!
+On February 22nd, pirate CODEC and members of the CODEC crew (Lena, Kevin, and Jessica) joined the [Kletskoppen festival](https://kletskoppenfestival.nl/), a children's festival dedicated to language. Many enthusiastic children and their parents visited our stand to learn about language variability and to participate in a scientific experiment themselves. Keep posted for results on how different sounds affect processing speed and language variability!
 
 ```{r, out.width = "40%", fig.align = 'center', echo = FALSE}
 knitr::include_graphics("images/news/Kletskoppen2026.jpg")
