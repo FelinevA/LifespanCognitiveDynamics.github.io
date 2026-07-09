@@ -42,7 +42,7 @@ knitr::include_graphics("images/news/OHBM_atmosphere.png")
 
 11th & 12th of June: 
 
-Rogier gave keynote at the Dutch Society for Developmental Psychology ([VNOP](https://vnop.nl/welcome2026/)) in Rotterdam. He discussed how learning and development can be understood through ecologically valid measurements and timeseries analysis. 
+Rogier gave a keynote at the Dutch Society for Developmental Psychology ([VNOP](https://vnop.nl/welcome2026/)) in Rotterdam. He discussed how learning and development can be understood through ecologically valid measurements and timeseries analysis. 
 
 ```{r, out.width = "80%", fig.align = 'center', echo = FALSE}
 knitr::include_graphics("images/news/Keynote_VNOP.png")
