@@ -4,6 +4,95 @@ output:
   distill::distill_article
 ---
 
+## Levante update 
+
+9th of July: 
+
+Good news regarding the Levante project: the tasks have now been translated, and we have received permission to begin testing.
+We are also pleased to welcome Karlijn van der Vleut, who will join us as an intern in September. She will be working on her thesis while supporting the project with data collection.
+In addition, on June 4th Rogier presented the current status of the project at the Jacobs meeting, and the [Levante Hackathon](https://levante-hackathon-2026.github.io/) is currently taking place (July 6-13).
+
+
+---
+
+## LCD lab at OHBM 
+
+15th of June:
+
+The Organisation for Human Brain Mapping took place in Bordeaux this year, with Nick and Léa representing the LCD Lab! 
+
+Nick presented his poster on *“The effect of prenatal and childhood wildfire exposure on adolescent neural development”*, while Léa showed her project on *“Histological measures provide information beyond MRI metrics to predict differences in IQ”*. 
+
+As past chair of the Sustainability Environmental Action Specific Interest Group (SEA-SIG), Léa enjoyed the SEA-SIG round table on *"(Neuro)Science in Resistance"* and the SEA-SIG social participating in a Climate Fresk. 
+
+They particularly enjoyed the feeling of community and the emphasis on open science and early career researchers cultivated during OHBM. And of course, the partying!
+
+```{r, out.width = "80%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/OHBM_Lea_Nick.png")
+```
+
+```{r, out.width = "100%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/OHBM_atmosphere.png")
+```
+
+
+---
+
+## Keynote VNOP
+
+11th & 12th of June: 
+
+Rogier gave keynote at the Dutch Society for Developmental Psychology ([VNOP](https://vnop.nl/welcome2026/)) in Rotterdam. He discussed how learning and development can be understood through ecologically valid measurements and timeseries analysis. 
+
+```{r, out.width = "80%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/Keynote_VNOP.png")
+```
+
+
+---
+
+## MNS Social Day
+
+12th of June: 
+
+Together with the rest of the department, we enjoyed a fun-filled social day at the Berendonck, packed with sports, teamwork, and riddles. Activities included volleyball, archery, and for the more adventurous among us (Kevin!), waterskiing. The day concluded with a barbecue, providing a great opportunity to relax and connect with colleagues outside the workplace.
+
+---
+
+## Donders Day
+
+2nd of June: 
+
+During the Donders Day the Donders Cube was awarded to Léa Michel in recognition of her exceptional contributions to sustainability and community-driven change within the institute. Together with Ana Carolina Temporão, they founded the MNS Green Team. They established initiatives to monitor and reduce the carbon footprint of research, including travel tracking and the integration of carbon monitoring tools on the HPC system. Their work has raised awareness while offering practical solutions for more responsible research practices. 
+
+```{r, out.width = "40%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/Lea_donderscube.png")
+```
+
+Other members of the lab were also actively involved throughout the day. Anna, Kevin, and Feline presented their posters, while Jessica shared her work on noise in the classroom. In addition, Rogier delivered a short pitch on the [REMAC](https://remacnijmegen.nl/index.html) × CNP project.
+
+```{r, out.width = "100%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/DondersDay.png")
+```
+
+```{r, out.width = "100%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/REMAC_CNP.png")
+```
+
+---
+
+## Everyone professor: Jessica opponent
+
+6th of May: 
+
+Jessica served as an opponent during a PhD defense on the 6th of May. Since 2024, non-professors have also been allowed to wear academic togas during PhD defenses at Radboud University. This aligns with the ["Everyone professor!" guide](https://dejongeakademie.nl/en/projects/2439266.aspx?t=Everyone+Professor!+) by De Jonge Akademie, which advocates for a more inclusive and representative academic culture and is well worth reading.
+
+```{r, out.width = "40%", fig.align = 'center', echo = FALSE}
+knitr::include_graphics("images/news/Jessica_opponent.jpg")
+```
+
+
+---
 
 ## Lab update
 
